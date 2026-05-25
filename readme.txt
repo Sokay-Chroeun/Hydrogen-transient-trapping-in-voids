@@ -1,5 +1,5 @@
 To verify the mass conservation:
-A simple H permeation benmark is performed, consisting of 2 phases:
+A simple H permeation benchmark is performed, consisting of 2 phases:
 	1. Charging phase:
 		- During: 200s
 		- Constant temperature and flux: 293 K
